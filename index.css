@@ -1,0 +1,111 @@
+body{
+    background-color: pink;   
+}
+li{
+    padding-top: 20px;
+}
+.jdl-isi{
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.daftar-isi{
+    width: 20%;
+    height: 1000px;
+    background-color: brown;
+}
+.artikel{
+    width: 80%;
+    height: 1000px;
+    background-color: darkgray;
+}
+.isi{
+    display: flex;
+}
+.gbr1{
+    margin-left: 20%;
+}
+.gbr2{
+    margin-left: 20%;
+}
+.menu{
+    width: 90%;
+    height: 100px;
+    background-color: yellow;
+    margin: auto;
+    display: flex;
+}
+*{
+    margin: 0;
+}
+.content{
+    width: 90%;
+    background-color: chartreuse;
+    margin: auto;
+}
+.buku{
+    width: 90%;
+    height: 400px;
+    background-color: orange;
+    margin: auto;
+    display: flex;
+}
+.putih{
+    width: 50%;
+    height: 400px;
+    background-color: fuchsia;
+}
+.gbr1{
+    width: 50%;
+    height: 400px;
+}
+.hitam{
+    width: 50%;
+    height: 400px;
+    background-color: red;
+}
+.gbr2{
+    width: 50%;
+    height: 400px;
+}
+.pilih-menu{
+    color: black;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pilih-menu:hover{
+    background-color: black;
+    color: white;
+}
+.identitas{
+    width: 50%;
+    height: 100px;
+    background-color: white;
+}
+.nama{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.submenu{
+    width: 50%;
+    height: 100px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}#am{
+    width: 200px;
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#info-saya{
+    color: white;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+
+
